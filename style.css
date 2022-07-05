@@ -37,3 +37,13 @@ section {
     border-radius: 10px;
     color: white;
 }
+
+.middle-section {
+    background-image: url(./images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+.middle-section .half-width img {
+    width: 30%;
+    align-items: center;
+}
